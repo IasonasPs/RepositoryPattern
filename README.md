@@ -1,0 +1,1 @@
+In-depth implementation of an ASP.NET Core Web API utilizing the Repository Pattern, and Entity Framework Core for data access. Includes features like CRUD operations, dependency injection and error handling.
